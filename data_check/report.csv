@@ -1,0 +1,2 @@
+type,column,value,message
+foreign_key,user_id,3,user_id не знайдено в id
